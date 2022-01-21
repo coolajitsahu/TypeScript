@@ -1,0 +1,6 @@
+function printName(name){
+    return "Hello "+name;
+
+}
+let myName  = "Ajit Sahu";
+console.log(printName(myName))
