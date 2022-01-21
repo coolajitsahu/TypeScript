@@ -1,0 +1,7 @@
+//https://www.typescriptlang.org/play?&q=462#code/GYVwdgxgLglg9mABAQwCaoHIgLYCMCmATgM4AUyANIrgJSIDeiiAsAFBNOH5QiFLKIA1NQDcTNgF9xrAG7JCiYjkQBeFOix4iZAEQApZHIAqABzgwwUHVQBMAVhpiWrCAmJwANvgB0HuAHNSAHIAZWU4YEQoAAt8RDAcAhJEGGIALkQgoUUcRyYgA
+
+function addNumbers(a, b) {  
+    return a + b;  
+}  
+var sum = addNumbers("JavaTpoint", 25);  
+console.log('Sum of the numbers is: ' + sum);  
